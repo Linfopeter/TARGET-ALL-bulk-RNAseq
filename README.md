@@ -24,4 +24,4 @@ Raw TARGET-ALL-P2 RNA-seq data are publicly available through the Genomic Data C
 
 ## Reproducibility
 
-Run scripts sequentially from `00_setup_packages.R` to downstream analysis scripts.
+Run scripts sequentially from `01_download_and_build_counts_ALL.R` to downstream analysis scripts.
